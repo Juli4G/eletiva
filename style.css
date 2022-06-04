@@ -24,7 +24,7 @@
 }
 
 body {
-    background-color: var(--cor6);
+    background-color: var(--cor0);
 }
 
 a.externa::after {
@@ -102,7 +102,7 @@ main h2 {
     font-family: var(--fonte-titulo);
     font-size: 1.3em;
     font-weight: bold;
-    background-image: linear-gradient(to );
+    background-image: linear-gradient(to right, var(--cor1), transparent);
     margin: 20px 0px;
     text-indent: 6px;
 }
@@ -161,11 +161,11 @@ aside > h3 {
 }
 
 aside > p {
-    color: var(--cor4);
+    color: white;
 }
 
 aside > ul {
-    color: var(--cor4);
+    color: white;
     list-style-type: disc;
     list-style-position: inside;
     columns: 2;
