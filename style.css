@@ -171,7 +171,13 @@ aside > ul {
     columns: 2;
 }
 
-
+.container {
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 footer {
     background-color: var(--cor5);
