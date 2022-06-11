@@ -168,6 +168,10 @@ aside > ul {
 
 footer {
     background-color: var(--cor5);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 3px;
 }
 
 footer a {
@@ -180,9 +184,3 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor0);
 }
-
-footer p {
-    color: white;
-    text-align: center;
-}
-
