@@ -25,6 +25,7 @@
 
 body {
     background-color: var(--cor0);
+    overflow-x: hidden;
 }
 
 a.externa::after {
