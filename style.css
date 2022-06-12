@@ -21,11 +21,11 @@
 * {
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden;
 }
 
 body {
     background-color: var(--cor0);
+    overflow-x: hidden;
 }
 
 a.externa::after {
