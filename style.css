@@ -25,7 +25,8 @@
 
 body {
     background-color: var(--cor0);
-    overflow-x: hidden;
+    overflow: hidden;
+    overflow-y: scroll;
 }
 
 a.externa::after {
@@ -110,8 +111,7 @@ main h2 {
 }
 
 main p {
-    padding-right: 10px;
-    margin: 15px 0px;
+    margin: 15px 5px;
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
