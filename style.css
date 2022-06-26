@@ -25,7 +25,7 @@
 
 body {
     background-color: var(--cor0);
-    overflow-x: hidden;
+    overflow: hidden;
     overflow-y: scroll;
 }
 
@@ -83,7 +83,7 @@ nav > a:hover {
 } 
 
 main {
-    min-width: 400px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
